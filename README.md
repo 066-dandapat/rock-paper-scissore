@@ -1,7 +1,6 @@
 
----
 
-```markdown
+
 # 🎮 Rock-Paper-Scissors Game ✊✋✌️  
 
 A fun and interactive **Rock-Paper-Scissors** game built using  
@@ -29,7 +28,6 @@ Play against the computer and enjoy a clean UI, sound effects (optional), and sm
 ✔️ Fully responsive  
 ✔️ Beginner-friendly code  
 
-
 ---
 
 ## 🧠 Game Rules  
@@ -42,8 +40,8 @@ Play against the computer and enjoy a clean UI, sound effects (optional), and sm
 
 ## 🛠️ Tech Stack  
 
-| Tech | Role |
-|------|------|
+| Tech | Purpose |
+|------|--------|
 | HTML | Structure |
 | CSS | Styling |
 | JavaScript | Game Logic |
@@ -54,7 +52,7 @@ Play against the computer and enjoy a clean UI, sound effects (optional), and sm
 
 ```
 
-📁 rock-paper-scissors
+📁 rock-paper-scissore
 ┣ 📄 index.html
 ┣ 🎨 style.css
 ┗ ⚡ script.js
@@ -78,7 +76,7 @@ open index.html
 1. Go to **Settings**
 2. Scroll to **Pages**
 3. Select branch: `main`
-4. Folder: `root`
+4. Folder: `/root`
 5. Click **Save**
 
 Your game will go live like:
@@ -106,7 +104,3 @@ Feel free to ⭐ the repo if you like it 😄
 ## 🎉 Enjoy the Game & Keep Coding!
 
 Made with ❤️ and ✨
-
-```
-
----
